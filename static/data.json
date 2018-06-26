@@ -1,0 +1,4 @@
+[ 
+	"/rpt",   "/rpt/daliy", "/rpt/daliy/publish", "/rpt/daliy/deposit", "/rpt/month/deposit", 
+	"/rpt/year", "/rpt/year/deposit", "/sys","/sys/role", "/sys/user", "/sys/log"
+]

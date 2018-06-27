@@ -1,10 +1,10 @@
-# vue-admin-ocntrol
+# vue-admin-control
 
 > vue实现后台管理类项目的权限控制
 
 ## Build Setup
 
-``` bash
+``` 
 # install dependencies
 npm install
 

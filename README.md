@@ -1,6 +1,6 @@
-# accesscontrol
+# vue-admin-ocntrol
 
-> A Vue.js project
+> vue实现后台管理类项目的权限控制
 
 ## Build Setup
 
